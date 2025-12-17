@@ -56,4 +56,4 @@ ISC
 
 ## Yazar
 
-Eren Akkoc
+Eren Akkoç
