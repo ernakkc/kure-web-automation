@@ -1,6 +1,6 @@
 # Küre Web Automation
 
-Bu proje, Küre Ansiklopedi web sitesinde otomatik görevler gerçekleştirmek için Puppeteer tabanlı bir web otomasyon aracıdır.
+Bu proje, Küre Ansiklopedi web sitesinde otomatik görevler gerçekleştirmek için Puppeteer tabanlı bir web otomasyon aracıdır
 
 ## Özellikler
 
